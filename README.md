@@ -1,2 +1,2 @@
 # numerical-analysis
-MATH334
+Numerical Analysis
